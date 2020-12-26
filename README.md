@@ -29,7 +29,7 @@ _Tras realizar estos pasos ya podrás visualizar el proyecto_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas que utilize para crear el proyecto_
 * [React Native](https://reactnative.dev/) - Framework utilizado
 * [Redux](https://es.redux.js.org/) - Utilizado para trabajar con un estado global
 * [Redux-Form](https://redux-form.com/8.3.0/) - Utilizado para trabajar con un estado general y manejo de formularios
