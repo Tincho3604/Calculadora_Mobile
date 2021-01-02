@@ -81,7 +81,7 @@ export const saveExpression = (id, operation) => {
 
 _Project carried out individually_
 
-* ** Martin Cumpe ** - * Author *
+* Martin Cumpe -  Author 
 
 
 ## License 📄
