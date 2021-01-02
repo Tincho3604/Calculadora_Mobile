@@ -1,33 +1,33 @@
 # Calculadora Mobile
 
 _Mobile application developed in Widergy training. It is a mobile calculator, in which we can execute basic arithmetic operations, it has a history where operations can be saved. The history has delete functionalities to be able to delete all the history, and a button to delete each expression in particular. It also has the ability to edit the expressions and update them with a button._
-_In another screen you can see a small survey, in which a user can leave a small return of the application registering with his username, his phone number and a field to leave a comment_
+_In another screen you can see a small survey, in which a user can leave a small return of the application registering with his username, his phone number and a field to leave a comment._
 
 ## Demo 📦
 
 _To see a demo of the deployed project, you can go to [Project Demo]()_
 
+## Starting 🚀
+_Enter the github repository, and clone it on your computer._
+```
+git clone <path>
+```
 
 ### Installation 🔧
-
 # Install dependencies for the client.
 ```
 yarn install
 ```
-
-## Starting 🚀
-_Enter the repository folder_
-
 _Then run_
 ```
 yarn start
 yarn android
 ```
 
-_After completing these steps you will be able to view the project_
+_After completing these steps you will be able to view the project._
 
 
-## Construido con 🛠️
+## Built with 🛠️
 
 _Tools that I used to create the project:_
 * [React Native] (https://reactnative.dev/) - Framework used.
@@ -36,7 +36,7 @@ _Tools that I used to create the project:_
 * [Reactotron] (https://github.com/infinitered/reactotron) - Graphical interface to monitor the operation of the redux.
 * [Apiary] (https://apiary.io/) - Tool to design, prototype, document and test APIs quickly.
 
-## Code details_
+## Code details
 _The endpoints are located in the actions folder and we use them to consume the APIs and dispatch the actions to the reducer_
 ```
 import axios from 'axios'
