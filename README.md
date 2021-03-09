@@ -1,4 +1,4 @@
-# Calculadora Mobile
+# Mobile Calculator
 
 _Mobile application developed in Widergy training. It is a mobile calculator, in which we can execute basic arithmetic operations, it has a history where operations can be saved. The history has delete functionalities to be able to delete all the history, and a button to delete each expression in particular. It also has the ability to edit the expressions and update them with a button._
 _In another screen you can see a small survey, in which a user can leave a small return of the application registering with his username, his phone number and a field to leave a comment._
