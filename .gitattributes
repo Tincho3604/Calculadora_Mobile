@@ -1,1 +1,5 @@
 *.pbxproj -text
+*.java linguist-detectable=false
+*.ruby linguist-detectable=false
+*.objetive-c linguist-detectable=false
+*.starlark linguist-detectable=false
